@@ -1,2 +1,3 @@
 # js-tic-tac-toe-console
-A javascript Tic-Tac-Toe game run in the js console.
+
+Runs a 5 round game of Rock, Paper, Scissors in the js console. Best out of 5 wins.
