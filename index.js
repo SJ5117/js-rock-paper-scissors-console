@@ -1,4 +1,4 @@
-/* Tic-Tac-Toe
+/* Rock, Paper, Scissors
 Created on July 16, 2023
 By Samuel Johnson 
 For The Odin Project */
@@ -133,7 +133,4 @@ function game() {
     }
 }
 
-// getComputerChoice()
-// getPlayerChoice()
-// runGame(computerChoice, playerChoice)
 game()
